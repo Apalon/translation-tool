@@ -16,3 +16,7 @@ However, the plugin assumes the following:
 - If there is a translatable string to be added to the project, it should be added to the corresponding worksheet.
 - Since these strings.xml files are always generated at build time, they should never be manually changed and they should not be checked in to the repo with the code. 
 - The older strings which are not translated/translatable are placed in a file called `strings-untranslated.xml`. Developers should use this file to add additional strings which cannot be translated.
+
+Legal Disclaimer:
+
+- This documentation, including any code shown in it, is licensed under the Apache 2.0 license (terms available at http://www.apache.org/licenses/LICENSE-2.0 and on the link above at "license"). A right to Aplaon's and our Affiliates trademarks and other brand features are not included in the license.
